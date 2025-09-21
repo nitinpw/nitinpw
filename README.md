@@ -3,6 +3,27 @@
 
 Email Me 👉 ✉️ **nitinx098@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
+<div align="center">
+  <img src="https://cdn.pixabay.com/animation/2024/07/31/20/48/20-48-43-696_512.gif" alt="Jitender" />
+</div>
+
+# 🚀 **Welcome to My Digital Playground!** 🎮
+
+
+javascript
+const jitender = {
+  title: "Full-Stack Sorcerer",
+  experience: "2+ years of turning coffee into code",
+  specialties: [
+    "React Native Spells", 
+    "Next.js Enchantments",
+    "Database Alchemy",
+    "Performance Potions"
+  ],
+  superpower: "Making loading screens disappear ⚡"
+};
+
+
 - 🔭 **I’m currently working on:** Building innovative web applications 
 - 🌱 **I’m currently learning:** TypeScript
 - 👯 **I’m looking to collaborate on:** Full-stack projects 
